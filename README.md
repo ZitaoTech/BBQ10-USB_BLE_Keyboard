@@ -1,5 +1,5 @@
 # BBQ10-USB_BLE_Keyboard  
-<img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/Q10_1.png" width = "534" height = "384" alt="View1" align=center /> <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/Q10_Back.png" width = "360" height = "320" alt="View1" align=center />  
+<img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/Q10_1.png" width = "534" height = "384" alt="View1" align=center /> <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/Q10_Back.png" width = "400" height = "300" alt="View1" align=center />  
 Last update about this documentation: 2024.03.06  
 
 [**About this keyboard**  ](#about-this-keyboard---)  
