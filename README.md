@@ -1,5 +1,5 @@
-# BB9900-USB_BLE_Keyboard  
-<img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/View1.png" width = "360" height = "320" alt="View1" align=center /> <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/9900_back.jpg" width = "360" height = "320" alt="View1" align=center />  
+# BBQ10-USB_BLE_Keyboard  
+<img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/View1.png" width = "360" height = "320" alt="View1" align=center /> <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/Q10_back.jpg" width = "360" height = "320" alt="View1" align=center />  
 Last update about this documentation: 2024.03.06  
 
 [**About this keyboard**  ](#about-this-keyboard---)  
@@ -22,7 +22,7 @@ Last update about this documentation: 2024.03.06
 [Weight  ](#Weight---)  
 [How to correctly assemble the battery  ](#how-to-correctly-assemble-the-battery---)  
 # <a name='About this keyboard  '>About this keyboard   </a>
-This mini Keyboard uses the original **Blackberry 9900** keyboard with Trackpad and powered by the NRF52840 Microcontroller and operates under modified ZMK Firmware.  
+This mini Keyboard uses the original **Blackberry Q10** keyboard with Trackpad and powered by the NRF52840 Microcontroller and operates under modified ZMK Firmware.  
 
 Brief Video of using this tiny keyboard: soon  
 
@@ -43,12 +43,12 @@ Here are some **main Features:**
 
 **Bluetooth version check**: This keyboard can only be paired wirelessly with devices that have **BLE 5.0 modul or higher**, please check if your device have the right Bluetooth modul, otherwise the keyboard can not work with your device wirelessly!  
 How to check the Bluetooth version of your device: google (your device name) like iphone 8 and plus Bluetooth version and you will find the answer like this:
- <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/BLE%20VERSION%20check.png" width = "500" height = "200" alt="BLE VERSION CHECK" align=center />
+ <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/BLE%20VERSION%20check.png" width = "500" height = "200" alt="BLE VERSION CHECK" align=center />
 
 **About the battery**: If you want to buy the keyboard, **you will need to buy the battery yourself** because of the [international shipping policy of Lithium battery](https://www.dhl.de/en/toolbar/footer/informationen/gefahrgut.html) from DHL. The Battery type that you need to buy is **BL-5B**. You can first check if you can buy it on your local Amazon or ebay webside. If there is not, you can buy the battery on Aliexpress. **Just buy the cheapest one**, in Europe the cheapest one will cost approximaltely 6 Euros. Here are some pictures of the battery price from Amazon, ebay and Aliexpress:  
- <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20Amazon.png" width = "225" height = "150" alt="BL-5B on Amazon" align=center />
- <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20ebay.png" width = "225" height = "150" alt="BL-5B on Ebay" align=center />
- <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20Aliexpress.png" width = "225" height = "150" alt="BL-5B on Ebay" align=center />
+ <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20Amazon.png" width = "225" height = "150" alt="BL-5B on Amazon" align=center />
+ <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20ebay.png" width = "225" height = "150" alt="BL-5B on Ebay" align=center />
+ <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20Aliexpress.png" width = "225" height = "150" alt="BL-5B on Ebay" align=center />
 
 ## Where to buy
 
@@ -62,9 +62,9 @@ When we power the keyboard on, we are at Layer 1: the QWERTY layer. By pressing 
 
 ## <a name='Keymap  '>Keymap   </a>
 The following pictures show the default keymap of the keyboard  
- <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/Layer_1.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
- <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/Layer_2.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
- <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/Layer_3.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
+ <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/Layer_1.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
+ <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/Layer_2.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
+ <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/Layer_3.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
 
 ## <a name='What to do when you first get this keyboard  '>What to do when you first get this keyboard   </a>  
 Here are a few steps to connect the keyboard with your device when you first get hands on this keyboard:  
@@ -172,14 +172,14 @@ PS: The scroll wheel function of the trackpoad is very useful when you watch tik
 # <a name='others  '>others   </a>  
 ## <a name='dimensions about the keyboard  '>dimensions about the keyboard   </a>  
 The picture below shows the outerline dimension of the keyboard  
-<img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/outerline_dimension.png" width = "700" height = "500" alt="BLE VERSION CHECK" align=center />  
+<img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/outerline_dimension.png" width = "700" height = "500" alt="BLE VERSION CHECK" align=center />  
 Thickness of the keyboard: 13.1mm  
 ## <a name='Weight  '>Weight   </a>  
 Without the battery the weight of the keyboard is 41.3 g.  
 With the battery the weight of the keyboard is 60.7 g.  
 ## <a name='How to correctly assemble the battery  '>How to correctly assemble the battery   </a>  
 First, remove the battery cover like this:  
-<img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/battery_remove.png" width = "300" height = "320" alt="BLE VERSION CHECK" align=center />  
+<img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/battery_remove.png" width = "300" height = "320" alt="BLE VERSION CHECK" align=center />  
 After removing the battery cover, you need to corretly insert the battery:  
-<img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/insert_battery_right.png" width = "400" height = "360" alt="BLE VERSION CHECK" align=center />
-<img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/insert_battery_wrong.png" width = "400" height = "360" alt="BLE VERSION CHECK" align=center />  
+<img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/insert_battery_right.png" width = "400" height = "360" alt="BLE VERSION CHECK" align=center />
+<img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/insert_battery_wrong.png" width = "400" height = "360" alt="BLE VERSION CHECK" align=center />  
