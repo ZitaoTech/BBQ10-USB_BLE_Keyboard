@@ -52,7 +52,7 @@ How to check the Bluetooth version of your device: google (your device name) lik
 
 ## Where to buy
 
-**Pay with US dollar**: Tindie  
+**Pay with US dollar**: [Tindie](https://www.tindie.com/products/zitaotech/blackberry-q10-bleusb-keyboard/)  
 **Pay with Euro**: Lectronz  
 
 # <a name='How to use this keyboard  '>How to use this keyboard   </a>  
