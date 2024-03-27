@@ -1,6 +1,6 @@
 # BBQ10-USB_BLE_Keyboard  
 <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/Q10_1.png" width = "427" height = "307" alt="View1" align=center /> <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/Q10_Back.png" width = "320" height = "240" alt="View1" align=center />  
-Last update about this documentation: 2024.03.24
+Last update about this documentation: 2024.03.24  
 2024.03.24 update: uploaded [3D-model](https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/tree/main/3D-model)  
 
 [**About this keyboard**  ](#about-this-keyboard---)  
