@@ -12,5 +12,5 @@ Why sticky shift?
 Because the keyboard has no integrated diodes, so there might be some ghost typing when you hold some keys together like shift + X.  
 So sticky shift is very useful when you want to type some letters capitalized.  
 How to check which keys can't be pressed together?  
-![Q10_sticky_shift_doc](https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/assets/145678024/0f0f983f-ca8d-41c4-8454-bdd59d8b2e78)
+![Q10_sticky_shift_doc](https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/assets/145678024/0f0f983f-ca8d-41c4-8454-bdd59d8b2e78)  
 Go to this [file](https://github.com/ZitaoTech/zmk_config_Q10/blob/main/config/boards/bbq10/bbq10.dts) For those keys that start with same numbers, by the default firmware they are shift, X and B, when you hold shift and press X or B, the keyboard just won't output anything.
