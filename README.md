@@ -3,8 +3,8 @@
 2024.03.24 update: uploaded [3D-model](https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/tree/main/3D-model)  
 2024.03.27 update: uploaded [How to customize your own keymap](https://github.com/ZitaoTech/zmk_config_Q10)   
 2024.04.26 update: add documentation about [sticky shift](https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/tree/main/Firmware)  
-## [Welcome to join my discord channel if you have any questions](https://discord.gg/WzPthAmMbP)  
-## [ Where to buy](#where-to-buy---)  
+## [Questions or need more info? Join my Discord Channel!](https://discord.gg/WzPthAmMbP)  
+## [Ready to Buy? Click Here!](#where-to-buy---)  
 ## Compare of the 3 Wireless keyboards:  
 |Keyboard Type |Dimension |Trackpad Backlight |Layout |
 |:---|:---|:---    |:---  |
