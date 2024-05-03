@@ -60,7 +60,7 @@ How to check the Bluetooth version of your device: google (your device name) lik
  <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20ebay.png" width = "225" height = "150" alt="BL-5B on Ebay" align=center />
  <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20Aliexpress.png" width = "225" height = "150" alt="BL-5B on Ebay" align=center />
 
-# <a name='Where to buy  '>Where to buy   </a>  
+## <a name='Where to buy  '>Where to buy   </a>  
 ## Where to buy
 
 **Pay with US dollar**: [Tindie](https://www.tindie.com/products/zitaotech/blackberry-q10-bleusb-keyboard/)  
