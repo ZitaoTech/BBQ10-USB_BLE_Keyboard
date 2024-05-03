@@ -5,6 +5,7 @@
 2024.04.26 update: add documentation about [sticky shift](https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/tree/main/Firmware)  
 ## [Welcome to join my discord channel if you have any questions](https://discord.gg/WzPthAmMbP)  
 ## Compare of the 3 Wireless keyboards:  
+## Where to buy(#where-to-buy---)  
 |Keyboard Type |Dimension |Trackpad Backlight |Layout |
 |:---|:---|:---    |:---  |
 |BBQ10 |53.13x76.67x12.9mm    |Yes     |Linear      |
@@ -59,6 +60,7 @@ How to check the Bluetooth version of your device: google (your device name) lik
  <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20ebay.png" width = "225" height = "150" alt="BL-5B on Ebay" align=center />
  <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20Aliexpress.png" width = "225" height = "150" alt="BL-5B on Ebay" align=center />
 
+# <a name='Where to buy  '>Where to buy   </a>  
 ## Where to buy
 
 **Pay with US dollar**: [Tindie](https://www.tindie.com/products/zitaotech/blackberry-q10-bleusb-keyboard/)  
